@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"O_AmatDePierre_1","order":10,"path":"objects/O_AmatDePierre_1/O_AmatDePierre_1.yy",},
+    {"name":"O_Collider","order":11,"path":"objects/O_Collider/O_Collider.yy",},
+    {"name":"O_Zone_1","order":7,"path":"objects/O_Zone_1/O_Zone_1.yy",},
+    {"name":"O_Zone_2","order":8,"path":"objects/O_Zone_2/O_Zone_2.yy",},
+    {"name":"O_Zone_3","order":9,"path":"objects/O_Zone_3/O_Zone_3.yy",},
+    {"name":"O_Zone_4","order":3,"path":"objects/O_Zone_4/O_Zone_4.yy",},
+    {"name":"O_Zone_5","order":2,"path":"objects/O_Zone_5/O_Zone_5.yy",},
+    {"name":"O_Zone_6","order":1,"path":"objects/O_Zone_6/O_Zone_6.yy",},
+    {"name":"O_Zone_ennemi_1","order":6,"path":"objects/O_Zone_ennemi_1/O_Zone_ennemi_1.yy",},
+    {"name":"O_Zone_ennemi_2","order":5,"path":"objects/O_Zone_ennemi_2/O_Zone_ennemi_2.yy",},
+    {"name":"O_Zone_ennemi_3","order":4,"path":"objects/O_Zone_ennemi_3/O_Zone_ennemi_3.yy",},
+    {"name":"S_bouton_Play_2","order":1,"path":"sprites/S_bouton_Play_2/S_bouton_Play_2.yy",},
+  ],
+}
