@@ -33,6 +33,8 @@
     {"$GMObjectProperty":"v1","%Name":"ZoneText2","filters":[],"listItems":[],"multiselect":false,"name":"ZoneText2","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"ZoneText3","filters":[],"listItems":[],"multiselect":false,"name":"ZoneText3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"\"","varType":2,},
     {"$GMObjectProperty":"v1","%Name":"item","filters":[],"listItems":[],"multiselect":false,"name":"item","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"noone","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"ScaleX","filters":[],"listItems":[],"multiselect":false,"name":"ScaleX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.75","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"ScaleY","filters":[],"listItems":[],"multiselect":false,"name":"ScaleY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.75","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -3,6 +3,9 @@
   "%Name":"O_Collider",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Ennemi_1","path":"objects/O_Ennemi_1/O_Ennemi_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Ennemi_2","path":"objects/O_Ennemi_2/O_Ennemi_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Ennemi_3","path":"objects/O_Ennemi_3/O_Ennemi_3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Collider",
@@ -34,5 +37,5 @@
     "path":"sprites/S_collisions/S_collisions.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

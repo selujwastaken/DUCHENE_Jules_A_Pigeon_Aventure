@@ -5,15 +5,18 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Zone_4",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[5] SPitem 1 / [8] SPitem 2 / [2] SPitem 3\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText2","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Repair Cost :\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText1","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Your Space Ship\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"item","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"O_Bomb","path":"objects/O_Bomb/O_Bomb.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Bomb",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"item","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_CrankedWheel","path":"sprites/S_CrankedWheel/S_CrankedWheel.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_CrankedWheel",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"spriteTrade","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_ZoneTradeInd","path":"sprites/S_ZoneTradeInd/S_ZoneTradeInd.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_ZoneTradeInd",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ScaleY","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.25",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ScaleX","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.25",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[5] Cable Renforce\"",},
   ],
   "parent":{
     "name":"ZONES",
@@ -38,6 +41,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"isvisible","filters":[],"listItems":[],"multiselect":false,"name":"isvisible","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"frame","filters":[],"listItems":[],"multiselect":false,"name":"frame","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -11,7 +11,10 @@
     "name":"ZONES",
     "path":"folders/Objects/ZONES.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Collider",
+    "path":"objects/O_Collider/O_Collider.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,7 +33,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Sprite47",
     "path":"sprites/Sprite47/Sprite47.yy",

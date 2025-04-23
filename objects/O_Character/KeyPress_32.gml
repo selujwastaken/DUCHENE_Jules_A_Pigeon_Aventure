@@ -19,19 +19,12 @@ if(O_Manager_Item.Bomb >= 1){	/// @DnDAction : YoYo Games.Instances.Create_Ins
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4FEBB9D0
+	/// @DnDInput : 2
 	/// @DnDParent : 08E8DB63
 	/// @DnDArgument : "expr" "-1"
 	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "expr_1" "90"
 	/// @DnDArgument : "var" "O_Manager_Item.Bomb"
+	/// @DnDArgument : "var_1" "TEST.alarm[0]"
 	O_Manager_Item.Bomb += -1;
-
-	/// @DnDAction : YoYo Games.Instances.Set_Alarm
-	/// @DnDVersion : 1
-	/// @DnDHash : 6D6F427B
-	/// @DnDApplyTo : {O_Bomb}
-	/// @DnDParent : 08E8DB63
-	/// @DnDArgument : "steps" "90"
-	with(O_Bomb) {
-	alarm_set(0, 90);
-	
-	}}
+	TEST.alarm[0] = 90;}

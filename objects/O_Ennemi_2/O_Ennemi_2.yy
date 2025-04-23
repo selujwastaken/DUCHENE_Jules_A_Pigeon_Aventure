@@ -2,18 +2,19 @@
   "$GMObject":"",
   "%Name":"O_Ennemi_2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Character","path":"objects/O_Character/O_Character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Ennemi_2",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Degats","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Range","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"512",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Speed","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Life","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Range","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"384",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Life","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_Degats","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_loot_item_2","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"5",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_loot_item_health","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"E_loot_item_1","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Ennemi","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"propertyId":{"name":"ATTRATE","path":"objects/O_Manager_Ennemi/O_Manager_Ennemi.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"60",},
   ],
   "parent":{
     "name":"Objects",

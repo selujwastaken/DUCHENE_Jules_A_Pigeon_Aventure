@@ -1,19 +1,21 @@
 {
   "$GMObject":"",
   "%Name":"O_Zone_ennemi_1",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"O_Zone_ennemi_1",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Spawn","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"propertyId":{"name":"WHO","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"resource":{"name":"O_Ennemi_1","path":"objects/O_Ennemi_1/O_Ennemi_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Ennemi_1",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Spawn","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"propertyId":{"name":"SpawnRate","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"260",},
+  ],
   "parent":{
     "name":"ZONES",
     "path":"folders/Objects/ZONES.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_Manager_Spawn",
+    "path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

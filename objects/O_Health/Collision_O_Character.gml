@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
 /// @DnDHash : 08F8ED5C
-/// @DnDArgument : "script" "SC_ReduceLife"
-/// @DnDArgument : "arg" "-3"
-/// @DnDSaveInfo : "script" "SC_ReduceLife"
-script_execute(SC_ReduceLife, -3);
+/// @DnDArgument : "script" "SC_GetLife"
+/// @DnDArgument : "arg" "3"
+/// @DnDSaveInfo : "script" "SC_GetLife"
+script_execute(SC_GetLife, 3);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

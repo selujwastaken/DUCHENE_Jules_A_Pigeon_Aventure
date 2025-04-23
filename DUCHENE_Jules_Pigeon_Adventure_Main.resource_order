@@ -2,7 +2,10 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"O_AmatDePierre_1","order":10,"path":"objects/O_AmatDePierre_1/O_AmatDePierre_1.yy",},
+    {"name":"O_BOOM","order":1,"path":"objects/O_BOOM/O_BOOM.yy",},
     {"name":"O_Collider","order":11,"path":"objects/O_Collider/O_Collider.yy",},
+    {"name":"O_KILLED","order":2,"path":"objects/O_KILLED/O_KILLED.yy",},
+    {"name":"O_Manager_Spawn","order":1,"path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},
     {"name":"O_Zone_1","order":7,"path":"objects/O_Zone_1/O_Zone_1.yy",},
     {"name":"O_Zone_2","order":8,"path":"objects/O_Zone_2/O_Zone_2.yy",},
     {"name":"O_Zone_3","order":9,"path":"objects/O_Zone_3/O_Zone_3.yy",},
@@ -12,6 +15,10 @@
     {"name":"O_Zone_ennemi_1","order":6,"path":"objects/O_Zone_ennemi_1/O_Zone_ennemi_1.yy",},
     {"name":"O_Zone_ennemi_2","order":5,"path":"objects/O_Zone_ennemi_2/O_Zone_ennemi_2.yy",},
     {"name":"O_Zone_ennemi_3","order":4,"path":"objects/O_Zone_ennemi_3/O_Zone_ennemi_3.yy",},
+    {"name":"SC_GetLife","order":1,"path":"scripts/SC_GetLife/SC_GetLife.yy",},
+    {"name":"S_BOOM","order":1,"path":"sprites/S_BOOM/S_BOOM.yy",},
     {"name":"S_bouton_Play_2","order":1,"path":"sprites/S_bouton_Play_2/S_bouton_Play_2.yy",},
+    {"name":"S_CrankedWheel","order":2,"path":"sprites/S_CrankedWheel/S_CrankedWheel.yy",},
+    {"name":"S_Idle_Left_1","order":1,"path":"sprites/S_Idle_Left_1/S_Idle_Left_1.yy",},
   ],
 }

@@ -65,6 +65,30 @@ if(isOpen == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
+	/// @DnDHash : 32D1E499
+	/// @DnDParent : 12486344
+	/// @DnDArgument : "x" "50"
+	/// @DnDArgument : "y" "200"
+	/// @DnDArgument : "xscale" "2"
+	/// @DnDArgument : "yscale" "2"
+	/// @DnDArgument : "caption" ""Drop Bomb : ""
+	/// @DnDArgument : "text" "" Space ""
+	draw_text_transformed(50, 200, string("Drop Bomb : ") + string(" Space "), 2, 2, 0);
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+	/// @DnDVersion : 1
+	/// @DnDHash : 1BF654FD
+	/// @DnDParent : 12486344
+	/// @DnDArgument : "x" "50"
+	/// @DnDArgument : "y" "250"
+	/// @DnDArgument : "xscale" "2"
+	/// @DnDArgument : "yscale" "2"
+	/// @DnDArgument : "caption" ""Map : ""
+	/// @DnDArgument : "text" "" M ""
+	draw_text_transformed(50, 250, string("Map : ") + string(" M "), 2, 2, 0);
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
+	/// @DnDVersion : 1
 	/// @DnDHash : 6280CC55
 	/// @DnDParent : 12486344
 	/// @DnDArgument : "x" "600"

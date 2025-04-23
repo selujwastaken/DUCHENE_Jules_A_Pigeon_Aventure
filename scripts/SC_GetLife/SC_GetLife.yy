@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_GetLife",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"SC_GetLife",
+  "parent":{
+    "name":"sc_lifeScript",
+    "path":"folders/Scripts/sc_lifeScript.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
