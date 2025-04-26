@@ -30,9 +30,9 @@ var l30E54B79_0 = instance_place(x, y, [O_Character]);if ((l30E54B79_0 > 0)){
 			/// @DnDParent : 765179F8
 			/// @DnDArgument : "expr" "-10"
 			/// @DnDArgument : "expr_relative" "1"
-			/// @DnDArgument : "expr_1" "1"
+			/// @DnDArgument : "expr_1" "+1"
 			/// @DnDArgument : "expr_relative_1" "1"
 			/// @DnDArgument : "var" "O_Manager_Item.loot2"
 			/// @DnDArgument : "var_1" "O_Manager_Item.SPLOOT2"
 			O_Manager_Item.loot2 += -10;
-			O_Manager_Item.SPLOOT2 += 1;}}}
+			O_Manager_Item.SPLOOT2 += +1;}}}

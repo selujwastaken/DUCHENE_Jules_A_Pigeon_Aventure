@@ -47,7 +47,8 @@ var l392E8FF7_0 = instance_place(x, y, [O_Character]);if ((l392E8FF7_0 > 0)){
 					/// @DnDArgument : "expr_relative_1" "1"
 					/// @DnDArgument : "expr_2" "-5"
 					/// @DnDArgument : "expr_relative_2" "1"
-					/// @DnDArgument : "expr_3" "1"
+					/// @DnDArgument : "expr_3" "+1"
+					/// @DnDArgument : "expr_relative_3" "1"
 					/// @DnDArgument : "var" "O_Manager_Item.loot1"
 					/// @DnDArgument : "var_1" "O_Manager_Item.loot2"
 					/// @DnDArgument : "var_2" "O_Manager_Item.loot3"
@@ -55,4 +56,4 @@ var l392E8FF7_0 = instance_place(x, y, [O_Character]);if ((l392E8FF7_0 > 0)){
 					O_Manager_Item.loot1 += -5;
 					O_Manager_Item.loot2 += -15;
 					O_Manager_Item.loot3 += -5;
-					O_Manager_Item.SPLOOT3 = 1;}}}}}
+					O_Manager_Item.SPLOOT3 += +1;}}}}}
