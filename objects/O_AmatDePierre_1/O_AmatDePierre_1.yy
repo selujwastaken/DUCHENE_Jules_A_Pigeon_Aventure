@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite47",
-    "path":"sprites/Sprite47/Sprite47.yy",
+    "name":"S_AmatDePierre_1",
+    "path":"sprites/S_AmatDePierre_1/S_AmatDePierre_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

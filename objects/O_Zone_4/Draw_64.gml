@@ -28,8 +28,8 @@ var l349D5696_0 = instance_place(x + 0, y + 0, [O_Character]);if ((l349D5696_0 
 			/// @DnDParent : 70DB3893
 			/// @DnDArgument : "var" "O_Manager_Item.SPLOOT2"
 			/// @DnDArgument : "op" "4"
-			/// @DnDArgument : "value" "8"
-			if(O_Manager_Item.SPLOOT2 >= 8){	/// @DnDAction : YoYo Games.Common.If_Variable
+			/// @DnDArgument : "value" "10"
+			if(O_Manager_Item.SPLOOT2 >= 10){	/// @DnDAction : YoYo Games.Common.If_Variable
 				/// @DnDVersion : 1
 				/// @DnDHash : 5A89B288
 				/// @DnDParent : 5555C0C5
@@ -43,7 +43,7 @@ var l349D5696_0 = instance_place(x + 0, y + 0, [O_Character]);if ((l349D5696_0 
 					/// @DnDParent : 5A89B288
 					/// @DnDArgument : "expr" "-5"
 					/// @DnDArgument : "expr_relative" "1"
-					/// @DnDArgument : "expr_1" "-8"
+					/// @DnDArgument : "expr_1" "-10"
 					/// @DnDArgument : "expr_relative_1" "1"
 					/// @DnDArgument : "expr_2" "-2"
 					/// @DnDArgument : "expr_relative_2" "1"
@@ -51,7 +51,7 @@ var l349D5696_0 = instance_place(x + 0, y + 0, [O_Character]);if ((l349D5696_0 
 					/// @DnDArgument : "var_1" "O_Manager_Item.SPLOOT2"
 					/// @DnDArgument : "var_2" "O_Manager_Item.SPLOOT3"
 					O_Manager_Item.SPLOOT1 += -5;
-					O_Manager_Item.SPLOOT2 += -8;
+					O_Manager_Item.SPLOOT2 += -10;
 					O_Manager_Item.SPLOOT3 += -2;
 				
 					/// @DnDAction : YoYo Games.Game.Save_Game

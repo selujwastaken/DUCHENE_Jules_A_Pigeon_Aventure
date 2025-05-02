@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"ENV",
-    "path":"folders/Sprites/ENV.yy",
+    "name":"designui",
+    "path":"folders/Sprites/designui.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

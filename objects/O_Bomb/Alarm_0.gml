@@ -69,6 +69,29 @@ var l166C971F_0 = collision_ellipse(x + -Radius, y + -Radius, x + Radius, y + Ra
 
 /// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 /// @DnDVersion : 1.1
+/// @DnDHash : 5513336D
+/// @DnDArgument : "x1" "-Radius"
+/// @DnDArgument : "x1_relative" "1"
+/// @DnDArgument : "y1" "-Radius"
+/// @DnDArgument : "y1_relative" "1"
+/// @DnDArgument : "x2" "Radius"
+/// @DnDArgument : "x2_relative" "1"
+/// @DnDArgument : "y2" "Radius"
+/// @DnDArgument : "y2_relative" "1"
+/// @DnDArgument : "obj" "O_AmatDePierre_3"
+/// @DnDArgument : "shape" "2"
+/// @DnDSaveInfo : "obj" "O_AmatDePierre_3"
+var l5513336D_0 = collision_ellipse(x + -Radius, y + -Radius, x + Radius, y + Radius, O_AmatDePierre_3, true, 1);if((l5513336D_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 27C7A464
+	/// @DnDParent : 5513336D
+	/// @DnDArgument : "expr" "-BoomDegats"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "O_AmatDePierre_3.Amat_Vie_3"
+	O_AmatDePierre_3.Amat_Vie_3 += -BoomDegats;}
+
+/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
+/// @DnDVersion : 1.1
 /// @DnDHash : 510186C9
 /// @DnDArgument : "x1" "-Radius"
 /// @DnDArgument : "x1_relative" "1"

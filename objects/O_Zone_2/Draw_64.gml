@@ -22,17 +22,17 @@ var l30E54B79_0 = instance_place(x, y, [O_Character]);if ((l30E54B79_0 > 0)){
 		/// @DnDParent : 2A9E78E0
 		/// @DnDArgument : "var" "O_Manager_Item.loot2"
 		/// @DnDArgument : "op" "4"
-		/// @DnDArgument : "value" "2"
-		if(O_Manager_Item.loot2 >= 2){	/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDArgument : "value" "15"
+		if(O_Manager_Item.loot2 >= 15){	/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 5BC60CE8
 			/// @DnDInput : 2
 			/// @DnDParent : 765179F8
-			/// @DnDArgument : "expr" "-10"
+			/// @DnDArgument : "expr" "-15"
 			/// @DnDArgument : "expr_relative" "1"
 			/// @DnDArgument : "expr_1" "+1"
 			/// @DnDArgument : "expr_relative_1" "1"
 			/// @DnDArgument : "var" "O_Manager_Item.loot2"
 			/// @DnDArgument : "var_1" "O_Manager_Item.SPLOOT2"
-			O_Manager_Item.loot2 += -10;
+			O_Manager_Item.loot2 += -15;
 			O_Manager_Item.SPLOOT2 += +1;}}}

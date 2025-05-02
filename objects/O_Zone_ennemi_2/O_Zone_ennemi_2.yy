@@ -6,7 +6,7 @@
   "name":"O_Zone_ennemi_2",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Spawn","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"propertyId":{"name":"WHO","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"resource":{"name":"O_Ennemi_2","path":"objects/O_Ennemi_2/O_Ennemi_2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Ennemi_2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Spawn","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"propertyId":{"name":"SpawnRate","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"350",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Spawn","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"propertyId":{"name":"SpawnRate","path":"objects/O_Manager_Spawn/O_Manager_Spawn.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"450",},
   ],
   "parent":{
     "name":"ZONES",

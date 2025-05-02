@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_CrankedWheel",
-    "path":"sprites/S_CrankedWheel/S_CrankedWheel.yy",
+    "name":"S_killed",
+    "path":"sprites/S_killed/S_killed.yy",
   },
   "spriteMaskId":null,
   "visible":true,

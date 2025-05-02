@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"S_collisions",
-    "path":"sprites/S_collisions/S_collisions.yy",
+    "name":"S_collisions_tri",
+    "path":"sprites/S_collisions_tri/S_collisions_tri.yy",
   },
   "spriteMaskId":null,
   "visible":false,

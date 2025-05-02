@@ -39,7 +39,7 @@
     {"$GMObjectProperty":"v1","%Name":"E_loot_item_3","filters":[],"listItems":[],"multiselect":false,"name":"E_loot_item_3","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"E_loot_item_health","filters":[],"listItems":[],"multiselect":false,"name":"E_loot_item_health","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"ATTRATE","filters":[],"listItems":[],"multiselect":false,"name":"ATTRATE","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"30","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"rangeLoot","filters":[],"listItems":[],"multiselect":false,"name":"rangeLoot","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"64","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"rangeLoot","filters":[],"listItems":[],"multiselect":false,"name":"rangeLoot","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"32*3","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite10",
-    "path":"sprites/Sprite10/Sprite10.yy",
+    "name":"S_Loot_vie",
+    "path":"sprites/S_Loot_vie/S_Loot_vie.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -150,8 +150,8 @@ if(isVisible == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite_Transfo
 	/// @DnDParent : 25893771
 	/// @DnDArgument : "x" "x"
 	/// @DnDArgument : "y" "y-300"
-	/// @DnDArgument : "caption" ""[8] Plaques Netaliques""
-	draw_text_transformed(x, y-300, string("[8] Plaques Netaliques") + "", 1, 1, 0);
+	/// @DnDArgument : "caption" ""[10]  'Meow' de metals""
+	draw_text_transformed(x, y-300, string("[10]  'Meow' de metals") + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
@@ -159,8 +159,8 @@ if(isVisible == true){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite_Transfo
 	/// @DnDParent : 25893771
 	/// @DnDArgument : "x" "x"
 	/// @DnDArgument : "y" "y-250"
-	/// @DnDArgument : "caption" ""[2] Oxygen Machine""
-	draw_text_transformed(x, y-250, string("[2] Oxygen Machine") + "", 1, 1, 0);
+	/// @DnDArgument : "caption" ""[2] Oxygen Tank""
+	draw_text_transformed(x, y-250, string("[2] Oxygen Tank") + "", 1, 1, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Set_Alpha
 	/// @DnDVersion : 1

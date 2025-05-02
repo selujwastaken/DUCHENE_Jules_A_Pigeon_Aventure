@@ -16,7 +16,7 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"spriteTrade","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resource":{"name":"S_ZoneTradeInd","path":"sprites/S_ZoneTradeInd/S_ZoneTradeInd.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_ZoneTradeInd",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ScaleY","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.25",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ScaleX","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1.25",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[5] Cable Renforce\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_Manager_Zones","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"propertyId":{"name":"ZoneText3","path":"objects/O_Manager_Zones/O_Manager_Zones.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"[5]  cables +++\"",},
   ],
   "parent":{
     "name":"ZONES",
@@ -47,8 +47,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite32",
-    "path":"sprites/Sprite32/Sprite32.yy",
+    "name":"S_Zone_4",
+    "path":"sprites/S_Zone_4/S_Zone_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,
