@@ -26,3 +26,5 @@ Explorez, survivez, echappez vous.
 **DOC :**
 
 https://docs.google.com/document/d/1jIoNxa60YcKYOz0oEc4yp6LIbWakk20nsbt3LfoWPM4/edit?usp=sharing
+
+***_Le jeu est entièrement jouable. Si le jeu ne se lance pas, c'est pas normal._***
