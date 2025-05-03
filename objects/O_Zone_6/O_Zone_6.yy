@@ -34,5 +34,5 @@
     "path":"sprites/S_catzone/S_catzone.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
