@@ -16,6 +16,13 @@ Explorez, survivez, echappez vous.
 
 *Ennemis bloqués :* Les ennemis peuvent parfois se coincer dans les collisions (c’est rare, mais ça arrive).
 
+*Infos :* les textes peuvents ce decaler pour aucune raison
+
+**Tips :**
+
+- garder plus de 6 dinamites dans votre inventaire, vous ne voulez pas rester coincer dans cette endroit.
+- les petits robots spawn plus rapidement que les autre, ils sont donc utile pour avoir plus de chanses de loot des graines (soins)
+
 **DOC :**
 
 https://docs.google.com/document/d/1jIoNxa60YcKYOz0oEc4yp6LIbWakk20nsbt3LfoWPM4/edit?usp=sharing
