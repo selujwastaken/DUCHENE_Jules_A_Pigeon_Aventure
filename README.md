@@ -22,7 +22,7 @@ Explorez, survivez, echappez vous.
 
 - Gardez plus de 6 dynamites dans votre inventaire, vous ne voulez pas rester coincé dans cet endroit.
 - Les petits robots spawnent plus rapidement que les autres, ils sont donc utiles pour avoir plus de chances de loot des graines (soins).
-- 
+
 **DOC :**
 
 https://docs.google.com/document/d/1jIoNxa60YcKYOz0oEc4yp6LIbWakk20nsbt3LfoWPM4/edit?usp=sharing
